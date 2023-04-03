@@ -1,2 +1,1 @@
-# PrepCourse-Andy
-Este es un repositorio del modulo del curso de Henry
+Este proyecto es una prueba 
